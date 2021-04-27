@@ -1,0 +1,96 @@
+# links section data
+- last_name: Andre
+  first_name: Araujo
+  desc: Software Engineer, Google (Primary Contact)
+  website: https://andrefaraujo.github.io
+  email: andrearaujo@google.com
+
+- last_name: Cam
+  first_name: Askew
+  desc: Software Engineer, Google
+  website:
+  email: askewc@google.com
+
+- last_name: Bingyi 
+  first_name: Cao
+  desc: Software Engineer, Google
+  website: 
+  email: bingyi@google.com
+
+- last_name: Ondrej
+  first_name: Chum
+  desc: Associate Professor, Czech Technical University
+  website: http://cmp.felk.cvut.cz/~chum/
+  email: chum@cmp.felk.cvut.cz
+
+- last_name: Noa
+  first_name: Garcia
+  desc: Postdoctoral Research Scientist, Osaka University
+  website: http://noagarciad.com/
+  email: noagarcia@ids.osaka-u.ac.jp
+
+- last_name: Bohyung
+  first_name: Han
+  desc: Associate Professor, Seoul National University 
+  website: https://cv.snu.ac.kr/index.php/~bhhan/
+  email: bhhan@snu.ac.kr
+
+- last_name: Guangxing
+  first_name: Han
+  desc: Postdoctoral Research Scientist, Columbia University 
+  website: https://guangxinghan.github.io
+  email: gh2561@columbia.edu
+
+- last_name: Varsha 
+  first_name: Hedau
+  desc: Amazon 
+  website: 
+  email: hedauv@amazon.com
+
+- last_name: Pradeep 
+  first_name: Natarajan
+  desc: Amazon 
+  website: 
+  email: natarap@amazon.com
+
+- last_name: Robinson 
+  first_name: Piramuthu
+  desc: eBay Inc 
+  website: 
+  email: robinpir@amazon.com
+
+- last_name: Jack
+  first_name: Sim
+  desc: Software Engineer, Google
+  website: 
+  email: jacksim@google.com
+
+- last_name: Giorgos
+  first_name: Tolias
+  desc: Assistant Professor, Czech Technical University
+  website: http://cmp.felk.cvut.cz/~toliageo/
+  email: giorgos.tolias@cmp.felk.cvut.cz
+
+- last_name: Tobias 
+  first_name: Weyand
+  desc: Software Engineer, Google
+  website: 
+  email: weyand@google.com
+
+- last_name: Yue
+  first_name: Wu
+  desc: Amazon
+  website: 
+  email: wuayue@amazon.com 
+
+- last_name: Xu 
+  first_name: Zhang
+  desc: Applied Scientist, Amazon Alexa
+  website: https://xu-zhang-1987.github.io/
+  email: xzhnamz@amazon.com 
+
+- last_name: Torsten
+  first_name: Sattler
+  desc: Associate Professor, Chalmers University of Technology
+  website: https://www.chalmers.se/en/Staff/Pages/torsat.aspx 
+  email: torsat@chalmers.se

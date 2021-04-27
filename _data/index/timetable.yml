@@ -1,0 +1,108 @@
+# schedules section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Welcome Remarks 
+  desc:
+    detail: Andre Araujo
+    video: https://www.youtube.com/watch?v=GjlFhYOJ13Q
+    slides: https://drive.google.com/file/d/1f9VZW1gtxAohL_ApA-qdZkAklAB5cZ6t/view?usp=sharing
+    host: 
+  date:
+    detail: Aug 28, 14:00 - 14:15 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Invited Talk 1 
+  desc:
+    detail: Ping Luo (Associate Professor, University of Hong Kong)
+    title: Instance Detection, Segmentation, Landmark Estimation and Beyond
+    video: https://www.youtube.com/watch?v=VhuuUiqjxgM
+    host: Jack Sim
+  date:
+    detail: Aug 28, 14:15 - 15:00 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Introduction to Landmark Retrieval Challenge  
+  desc:
+    detail: Tobias Weyand, Bingyi Cao and Cam Askew
+    video: https://www.youtube.com/watch?v=Xvg7sBw-aqA
+    slides: https://drive.google.com/file/d/1c_i5aeH8uOiuu1rmKmov3YmWlbmRPa78/view?usp=sharing
+    host:
+  date:
+    detail: Aug 28, 15:00 - 15:25 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Landmark Retrieval Challenge Winner Presentations  
+  desc:
+    detail: Teams keetar (#1), bysj (#2), Open Neural Network Exchange (#5).
+    video: https://www.youtube.com/watch?v=SGruUUe6nuk
+    slides: https://drive.google.com/file/d/1FB2C3iRa6I0LiAJOMfW4UtSVefQea_m2/view?usp=sharing
+    host: Torsten Sattler and Bohyung Han
+  date:
+    detail: Aug 28, 15:25 - 16:00 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Invited Talk 2
+  desc:
+    detail: Diane Larlus (Senior Research Scientist, NAVER LABS Europe)
+    video: https://www.youtube.com/watch?v=-wMv3HlRUDc
+    host: Ondrej Chum
+  date:
+    detail: Aug 28, 22:00 - 22:45 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Introduction to Landmark Recognition Challenge  
+  desc:
+    detail: Tobias Weyand, Bingyi Cao and Cam Askew
+    video: https://www.youtube.com/watch?v=oqu4EWHl-4Q
+    slides: https://drive.google.com/file/d/1xGwCNIaAY4qf3NwhfGrTLUlyiKigGAD8/view?usp=sharing
+    host:
+  date:
+    detail: Aug 28, 22:45 - 23:10 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Artwork Recognition  
+  desc:
+    detail: Guangxing Han and Giorgos Tolias
+    video: https://www.youtube.com/watch?v=nPcLJqXtZ_s
+    slides: https://drive.google.com/file/d/1EwXxWMGtbqdJb_iCuF2M8jGhoxcZGnUV/view?usp=sharing
+    host:
+  date:
+    detail: Aug 28, 23:10 - 23:25 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Product Retrieval  
+  desc:
+    detail: Xu Zhang
+    video: https://www.youtube.com/watch?v=uxMdfZqym88
+    slides: https://drive.google.com/file/d/1SgSbVnvXLHKEhAjdlmQbwMWiC9HLl0DN/view?usp=sharing
+    host:
+  date:
+    detail: Aug 28, 23:25 - 23:50 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks  
+  desc:
+    detail: Andre Araujo
+    video: https://www.youtube.com/watch?v=dFGcmVYU20A
+    slides: https://drive.google.com/file/d/16lVbzQxbAW-zqJAlsAozt_4uBn4XTLQ3/view?usp=sharing
+    host:
+  date:
+    detail: Aug 28, 23:50 - Aug 29, 00:00 UTC+1 
+  icon: fa-microphone 
+
+- name:
+    detail: Landmark Recognition Challenge Winner Slides  
+  desc:
+    slides: https://drive.google.com/file/d/1KdchHhjz0A5ZofK8mWTy6jQPiS70KQlI/view?usp=sharing
+  date:
+    detail: Nov. 2020 
+  icon: fa-microphone
+

@@ -1,0 +1,19 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+#
+
+- name: Laura Leal-Taixé
+  i18n: Leal-Taixé
+  img: /static/assets/img/landing/lealtaixe.jpg
+  desc: Professor at Technical University of Munich
+  title: 
+  abstract: 
+
+- name: Rong Jin
+  i18n: Jin
+  img: /static/assets/img/landing/jin.jpeg
+  desc: Head of Machine Intelligence Technologies at Alibaba
+  title: 
+  abstract: 
+

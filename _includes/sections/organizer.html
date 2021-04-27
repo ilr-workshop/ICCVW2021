@@ -1,0 +1,30 @@
+<div class="container" id="i18_organizer">
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h2><span data-i18n="organizer.organizer">Organizers</span></h2>
+        </div>
+    </div>
+    <div class="row">
+    {% for organizer in site.data.index.organizer %}
+        <div class="col-lg-4 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
+        <div class="team-member">
+            <h4><span class="navy">{{ organizer.last_name }}</span> {{ organizer.first_name }}</h4>
+            <p>{{ organizer.desc }}</p>
+            <ul class="list-inline social-icon">
+                <li><a href="{{ organizer.website }}" target="blank"><i class="fa fa-home"></i></a>
+                </li>
+                <li><a href="mailto:{{ organizer.email }}"><i class="fa fa-envelope-o"></i></a>
+                </li>
+            </ul>
+        </div>
+        </div>
+    {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+            <p id="jalpc_site_pv"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</strong></p>
+            <p id="Thanks"> We thank <a href="https://github.com/jarrekk/Jalpc">Jalpc</a> for the jekyll template</p>
+        </div>
+    </div>
+</div>

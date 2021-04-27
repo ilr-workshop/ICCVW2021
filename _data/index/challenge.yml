@@ -1,0 +1,28 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Landmark Recognition
+  i18n: Landmark_Recognition
+  img: /static/assets/img/landing/landmark_recognition.png
+  desc: Recognize landmarks in images.
+  url: 
+
+- name: Landmark Retrieval
+  i18n: Landmark_Retrieval
+  img: /static/assets/img/landing/landmark_retrieval.png
+  desc: Retrieve relevant landmark images from a large-scale database.
+  url: 
+
+- name: Artwork Recognition
+  i18n: Artwork_Recognition
+  img: /static/assets/img/landing/artwork_recognition.png
+  desc: Recognize artworks in images.
+  url: 
+
+- name: Product Retrieval
+  i18n: Product_Retrieval
+  img: /static/assets/img/landing/product_retrieval.png
+  desc: Retrieve relevant product images from a large-scale database.
+  url: 
+
+

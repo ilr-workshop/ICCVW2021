@@ -1,0 +1,64 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: ILR2021
+description: The Official Site of ICCV 2021 Workshop, Instance-Level Recognition Workshop
+keywords: Instance, Landmarks, Artworks, Products, ICCVW 
+baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://ilr-workshop.github.io/ICCVW2021/  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: /ilr-workshop/ICCVW2021/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: ILR2021   # Be used at blog posts' author.
+  first_name:   # Be used at index page about me section.
+  last_name: ILR2021  # Be used at index page about me section.
+  #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  #github_username: jarrekk  # Leave blank if you don't have now
+  #linkedin_id: jarrekk # Leave blank if you don't have now
+  #facebook_username: jiakunnj  # Leave blank if you don't have now
+  #twitter_username: jiakun614  # Leave blank if you don't have now
+  email: ilr-workshop@googlegroups.com  # Leave blank if you don't have now
+  #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  desc: >
+    <p>[See links below for slides and recorded videos.]</p><p>Visual instance-level recognition and retrieval are fundamental tasks in computer vision. Despite the recent advances in this field, many techniques have been evaluated on a limited number of domains, with small number of classes. We believe that the research community can benefit from a new suite of datasets and associated challenges, to improve the understanding about the limitations of current technology, and with an opportunity to introduce new techniques. </p><p>The Instance-Level Recognition (ILR) Workshop is a follow-up of three successful editions of the Landmark Recognition Workshop at <a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy"> CVPRW18 </span></a>, <a href="https://landmarksworkshop.github.io/CVPRW2019" target="_blank"><span class="navy"> CVPRW19 </span></a> and <a href="https://ilr-workshop.github.io/ECCVW2020/" target="_blank"><span class="navy"> ECCVW2020 </span></a>. While the previous editions focused solely on landmarks, our Instance-Level Recognition workshop will consider three domains: artworks, landmarks and products.</p>
+# comment
+  disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: ILR2021
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  # id:
+
+## google optimize
+go:
+  # id:
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: on  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+

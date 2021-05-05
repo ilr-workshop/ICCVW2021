@@ -61,7 +61,7 @@
 
 - last_name: Jack
   first_name: Sim
-  desc: Software Engineer, Google
+  desc: Google
   website: 
   email: jacksim@google.com
 
@@ -73,7 +73,7 @@
 
 - last_name: Tobias 
   first_name: Weyand
-  desc: Software Engineer, Google
+  desc: Google
   website: 
   email: weyand@google.com
 

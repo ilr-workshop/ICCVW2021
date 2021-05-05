@@ -1,43 +1,43 @@
 # links section data
 - last_name: Andre
   first_name: Araujo
-  desc: Software Engineer, Google (Primary Contact)
+  desc: Google (Primary Contact)
   website: https://andrefaraujo.github.io
   email: andrearaujo@google.com
 
 - last_name: Cam
   first_name: Askew
-  desc: Software Engineer, Google
+  desc: Google
   website:
   email: askewc@google.com
 
 - last_name: Bingyi 
   first_name: Cao
-  desc: Software Engineer, Google
+  desc: Google
   website: 
   email: bingyi@google.com
 
 - last_name: Ondrej
   first_name: Chum
-  desc: Associate Professor, Czech Technical University
+  desc: Czech Technical University
   website: http://cmp.felk.cvut.cz/~chum/
   email: chum@cmp.felk.cvut.cz
 
 - last_name: Noa
   first_name: Garcia
-  desc: Postdoctoral Research Scientist, Osaka University
+  desc: Osaka University
   website: http://noagarciad.com/
   email: noagarcia@ids.osaka-u.ac.jp
 
 - last_name: Bohyung
   first_name: Han
-  desc: Associate Professor, Seoul National University 
+  desc: Seoul National University 
   website: https://cv.snu.ac.kr/index.php/~bhhan/
   email: bhhan@snu.ac.kr
 
 - last_name: Guangxing
   first_name: Han
-  desc: Postdoctoral Research Scientist, Columbia University 
+  desc: Columbia University 
   website: https://guangxinghan.github.io
   email: gh2561@columbia.edu
 
@@ -67,7 +67,7 @@
 
 - last_name: Giorgos
   first_name: Tolias
-  desc: Assistant Professor, Czech Technical University
+  desc: Czech Technical University
   website: http://cmp.felk.cvut.cz/~toliageo/
   email: giorgos.tolias@cmp.felk.cvut.cz
 
@@ -85,12 +85,12 @@
 
 - last_name: Xu 
   first_name: Zhang
-  desc: Applied Scientist, Amazon Alexa
+  desc: Amazon Alexa
   website: https://xu-zhang-1987.github.io/
   email: xzhnamz@amazon.com 
 
 - last_name: Torsten
   first_name: Sattler
-  desc: Associate Professor, Chalmers University of Technology
+  desc: Chalmers University of Technology
   website: https://www.chalmers.se/en/Staff/Pages/torsat.aspx 
   email: torsat@chalmers.se

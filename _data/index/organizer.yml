@@ -1,19 +1,19 @@
 # links section data
 - last_name: Andre
   first_name: Araujo
-  desc: Google (Primary Contact)
+  desc: Google Research (Primary Contact)
   website: https://andrefaraujo.github.io
   email: andrearaujo@google.com
 
 - last_name: Cam
   first_name: Askew
-  desc: Google
+  desc: Google Research
   website:
   email: askewc@google.com
 
 - last_name: Bingyi 
   first_name: Cao
-  desc: Google
+  desc: Google Research
   website: 
   email: bingyi@google.com
 
@@ -61,7 +61,7 @@
 
 - last_name: Jack
   first_name: Sim
-  desc: Google
+  desc: Google Research
   website: 
   email: jacksim@google.com
 
@@ -73,7 +73,7 @@
 
 - last_name: Tobias 
   first_name: Weyand
-  desc: Google
+  desc: Google Research
   website: 
   email: weyand@google.com
 

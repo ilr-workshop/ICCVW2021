@@ -5,13 +5,13 @@
   i18n: Landmark_Recognition
   img: /static/assets/img/landing/landmark_recognition.png
   desc: Recognize landmarks in images.
-  url: 
+  url: https://kaggle.com/c/landmark-recognition-2021
 
 - name: Landmark Retrieval
   i18n: Landmark_Retrieval
   img: /static/assets/img/landing/landmark_retrieval.png
   desc: Retrieve relevant landmark images from a large-scale database.
-  url: 
+  url: https://www.kaggle.com/c/landmark-retrieval-2021
 
 - name: Artwork Recognition
   i18n: Artwork_Recognition

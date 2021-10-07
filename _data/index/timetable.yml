@@ -12,23 +12,23 @@
   icon: fa-microphone
 
 - name:
-    detail: Landmark Recognition Challenge: Overview  
+    detail: Invited Talk 1 
   desc:
-    detail: Cam Askew, Bingyi Cao, Tobias Weyand
-    video: 
-    slides: 
-    host:
+    detail: Ping Luo (Associate Professor, University of Hong Kong)
+    title: Instance Detection, Segmentation, Landmark Estimation and Beyond
+    video: https://www.youtube.com/watch?v=VhuuUiqjxgM
+    host: Jack Sim
   date:
-    detail: Oct 11, 13:30 - 13:40 EST 
+    detail: Aug 28, 14:15 - 15:00 UTC+1 
   icon: fa-microphone 
 
 - name:
-    detail: Landmark Recognition Challenge: Winner Presentations 
+    detail: Introduction to Landmark Retrieval Challenge  
   desc:
-    detail: 
-    video: 
-    slides: 
-    host: Bohyung Han
+    detail: Tobias Weyand, Bingyi Cao and Cam Askew
+    video: https://www.youtube.com/watch?v=Xvg7sBw-aqA
+    slides: https://drive.google.com/file/d/1c_i5aeH8uOiuu1rmKmov3YmWlbmRPa78/view?usp=sharing
+    host:
   date:
-    detail: Oct 11, 13:40 - 14:00 EST 
+    detail: Aug 28, 15:00 - 15:25 UTC+1 
   icon: fa-microphone 

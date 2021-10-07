@@ -10,3 +10,36 @@
   date:
     detail: Oct 11, 13:00 - 13:15 EST 
   icon: fa-microphone 
+
+- name:
+    detail: Landmark Challenges: New Fairer Dataset  
+  desc:
+    detail: Zu Kim from Google Research
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Oct 11, 13:15 - 13:30 EST 
+  icon: fa-microphone 
+
+- name:
+    detail: Landmark Recognition Challenge: Overview  
+  desc:
+    detail: Cam Askew, Bingyi Cao, Tobias Weyand
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Oct 11, 13:30 - 13:40 EST 
+  icon: fa-microphone 
+
+- name:
+    detail: Landmark Recognition Challenge: Winner Presentations 
+  desc:
+    detail: 
+    video: 
+    slides: 
+    host: Bohyung Han
+  date:
+    detail: Oct 11, 13:40 - 14:00 EST 
+  icon: fa-microphone 

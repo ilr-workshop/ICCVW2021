@@ -5,7 +5,7 @@
   desc:
     detail: Andre Araujo
     video: 
-    slides: https://github.com/ilr-workshop/ICCVW2021/tree/master/_data/index/Welcome_remarks.pdf
+    slides: https://github.com/ilr-workshop/ICCVW2021/tree/master/static/assets/slides/Welcome_remarks.pdf
     host: 
   date:
     detail: Oct 11, 13:00 - 13:15 EDT 
@@ -16,7 +16,7 @@
   desc:
     detail: Zu Kim, Google Research
     video: 
-    slides: 
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/New_Fairer_Dataset.pdf
     host: 
   date:
     detail: Oct 11, 13:15 - 13:30 EDT 
@@ -27,7 +27,7 @@
   desc:
     detail: Cam Askew, Bingyi Cao, Tobias Weyand
     video: 
-    slides: 
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Recognition_intro.pdf
     host:
   date:
     detail: Oct 11, 13:30 - 13:40 EDT 
@@ -61,7 +61,7 @@
   desc:
     detail: Cam Askew, Bingyi Cao, Tobias Weyand
     video: 
-    slides: 
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Retrieval_intro.pdf
     host:
   date:
     detail: Oct 11, 14:45 - 14:55 EDT 
@@ -126,7 +126,7 @@
   desc:
     detail: Andre Araujo
     video: 
-    slides: 
+    slides: https://github.com/ilr-workshop/ICCVW2021/tree/master/static/assets/slides/Closing_remarks.pdf
     host:
   date:
     detail: Oct 11, 17:45 - 18:00 EDT 

@@ -15,7 +15,7 @@
     detail: "Landmark Challenges: New Fairer Dataset"
   desc:
     detail: Zu Kim, Google Research
-    video: 
+    video: https://www.youtube.com/watch?v=5eLzRZzrMDo&ab_channel=HanGuangxing
     slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/New_Fairer_Dataset.pdf
     host: 
   date:
@@ -26,7 +26,7 @@
     detail: "Landmark Recognition Challenge: Overview"
   desc:
     detail: Cam Askew, Bingyi Cao, Tobias Weyand
-    video: 
+    video: https://www.youtube.com/watch?v=ZikYyeXskjg&ab_channel=HanGuangxing
     slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Recognition_intro.pdf
     host:
   date:

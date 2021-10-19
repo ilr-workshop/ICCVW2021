@@ -93,7 +93,7 @@
   desc:
     detail: Xu Zhang and team
     video: 
-    slides: 
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Product%20Retrieval.pdf
     host:
   date:
     detail: Oct 11, 16:00 - 16:30 EDT 
@@ -104,7 +104,7 @@
   desc:
     detail: Nikolaos Ypsilantis
     video: 
-    slides:
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/The_MET_Dataset.pdf
     host:
   date:
     detail: Oct 11, 16:30 - 17:00 EDT 

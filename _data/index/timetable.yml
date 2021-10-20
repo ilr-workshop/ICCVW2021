@@ -92,7 +92,7 @@
     detail: "Interactive Product Retrieval: Overview and Presentations"
   desc:
     detail: Xu Zhang and team
-    video: 
+    video: https://www.youtube.com/watch?v=SKG16H-1_mQ&ab_channel=HanGuangxing
     slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Product%20Retrieval.pdf
     host:
   date:
@@ -103,7 +103,7 @@
     detail: "Artwork Recognition: Overview and Presentations"
   desc:
     detail: Nikolaos Ypsilantis
-    video: https://www.youtube.com/watch?v=SKG16H-1_mQ&ab_channel=HanGuangxing
+    video: https://www.youtube.com/watch?v=w1vmdB-lB78&t=45s&ab_channel=HanGuangxing
     slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/The_MET_Dataset.pdf
     host:
   date:

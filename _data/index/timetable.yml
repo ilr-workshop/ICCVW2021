@@ -71,7 +71,7 @@
     detail: "Landmark Retrieval Challenge: Winner Presentations"
   desc:
     detail: 
-    video: 
+    video: https://www.youtube.com/watch?v=bkT2Judxf_s&ab_channel=HanGuangxing
     slides: 
     host: Bohyung Han
   date:
@@ -103,7 +103,7 @@
     detail: "Artwork Recognition: Overview and Presentations"
   desc:
     detail: Nikolaos Ypsilantis
-    video: 
+    video: https://www.youtube.com/watch?v=SKG16H-1_mQ&ab_channel=HanGuangxing
     slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/The_MET_Dataset.pdf
     host:
   date:
